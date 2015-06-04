@@ -1,0 +1,20 @@
+
+#autorafraichir.autorefreshInProgress:after {
+    content: "Stop auto-refresh" ;
+}
+
+#autorafraichir:after {
+    content: "Auto-Refresh" ;
+}
+
+table, th, td {
+    border : 1px black solid;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 15px;
+}
+
+
+
